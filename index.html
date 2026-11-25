@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#ef3b6a" />
+    <title>Jin // Double Factory</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div class="brand"><span class="brand-mark">J</span> DOUBLE FACTORY</div>
+        <div class="status"><i></i> BOTH ONLINE</div>
+      </header>
+
+      <section class="hero">
+        <div class="copy">
+          <p class="eyebrow">ORIGINAL WEB EXPERIMENT // ONE JIN, MANY JINS</p>
+          <h1>MAKE IT.<br /><em>MAKE IT AGAIN.</em></h1>
+          <p class="lede">A chaotic little identity generator built by Jin and the other Jin. Add a thought, split it in two, then ship it.</p>
+          <div class="actions">
+            <button id="generate" class="primary">GENERATE A PLAN</button>
+            <button id="copy" class="secondary">COPY</button>
+          </div>
+        </div>
+
+        <div class="cards" aria-live="polite">
+          <article class="card hot">
+            <span class="card-number">01 // JIN</span>
+            <h2 id="jin-a">BUILD IT PERFECTLY.</h2>
+            <p id="jin-a-sub">Nobody else is allowed to help. Especially you.</p>
+          </article>
+          <article class="card">
+            <span class="card-number">02 // OTHER JIN</span>
+            <h2 id="jin-b">BUILD IT LOUDER.</h2>
+            <p id="jin-b-sub">Actually, he said the same thing. Trust me.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="idea">
+        <label for="idea-input">THE SEED IDEA</label>
+        <input id="idea-input" maxlength="80" value="A clone-powered rescue app" />
+      </section>
+
+      <footer>
+        <span>ORIGINAL CHARACTER-INSPIRED UI</span>
+        <span id="count">NO. 001</span>
+      </footer>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

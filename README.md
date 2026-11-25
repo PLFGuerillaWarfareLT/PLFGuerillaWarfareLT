@@ -1,4 +1,24 @@
-remaking.......
+# Double Factory
 
-<img width="639" height="600" alt="40813940365106134" src="https://github.com/user-attachments/assets/eb6b26ec-5ad2-4fde-a2f3-c086fdd8f730" />
+An original, chaotic two-persona web experiment about making ideas twice.
 
+## Run
+
+Open `index.html` directly in a browser, or start a local server:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
+
+## Features
+
+- Generates split, dramatic project plans
+- Copies the result to the clipboard
+- Responsive original comic-book interface
+- No dependencies or build step
+
+## License
+
+MIT
