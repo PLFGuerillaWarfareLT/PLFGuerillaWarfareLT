@@ -1,17 +1,16 @@
 <div align="center">
 
-
 <p>
   <a href="https://axelsvoid.atabook.org/">
-    <img src="https://img.shields.io/badge/ATABOOK-bcc6d1?style=flat-square&labelColor=6886ab" alt="Atabook"/>
+    <img src="https://img.shields.io/badge/ATABOOK-9DBF9D?style=flat-square&labelColor=9DBF9D" alt="Atabook"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://pronouns.cc/@piropitoanananna>
-    <img src="https://img.shields.io/badge/STRAWPAGE-E8CE78?style=flat-square&labelColor=bab26a" alt="Strawpage"/>
+  <a href="https://straw.page/make?id=axelllllllllllllium">
+    <img src="https://img.shields.io/badge/STRAWPAGE-E8CE78?style=flat-square&labelColor=E8CE78" alt="Strawpage"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://pronouns.cc/@axelljulian">
-    <img src="https://img.shields.io/badge/PRONOUNS-D99AB5?style=flat-square&labelColor=5c4566" alt="Pronouns"/>
+  <a href="https://pronouns.cc/@piropitoanananna">
+    <img src="https://img.shields.io/badge/PRONOUNS-D99AB5?style=flat-square&labelColor=D99AB5" alt="Pronouns"/>
 
 </p>
 
