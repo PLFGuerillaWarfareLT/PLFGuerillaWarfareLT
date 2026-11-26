@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/ATABOOK-bcc6d1?style=flat-square&labelColor=6886ab" alt="Atabook"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://straw.page/make?id=axelllllllllllllium">
+  <a href="https://pronouns.cc/@piropitoanananna>
     <img src="https://img.shields.io/badge/STRAWPAGE-E8CE78?style=flat-square&labelColor=bab26a" alt="Strawpage"/>
   </a>
   &nbsp;&nbsp;
